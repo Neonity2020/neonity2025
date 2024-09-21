@@ -2,3 +2,4 @@
 My upgrade plan
 ## web
 ### NextJS + Strapi
+### shadcn/ui
